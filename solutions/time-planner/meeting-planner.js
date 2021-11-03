@@ -28,3 +28,7 @@ const slotsB = [
 const dur = 8;
 
 console.log(meetingPlanner(slotsA, slotsB, dur));
+
+// Time Complexity: we are traversing every input array at most once, hence the time complexity is linear, i.e O(N+M), where N and N are lengths of slotsA and slotsB, respectively.
+
+// Space Complexity: it’s O(1). We are using four auxiliary variables, all of which are occupying only a constant amount of space.

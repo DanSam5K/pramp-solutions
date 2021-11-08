@@ -5,7 +5,7 @@
 
 - Here are some examples of H-trees at different levels of depth:
 
-[scs](../../image/htreeimage.png)
+![scs](../../image/htreeimage.png)
 
 - Write a function drawHTree that constructs an H-tree, given its center (x and y coordinates), a starting length, and depth. Assume that the starting line is parallel to the X-axis.
 
